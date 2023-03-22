@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Study mongodb.",
+        "author": "velu",
+        "location": "Madurai",
+        "priority": 3.0
+    },
+    {
+        "text": "Do assignments",
+        "author": "Livingston",
+        "location": "Virudhunagar",
+        "priority": 1.0
+    },
+    {
+        "text": "Buy books.",
+        "author": "revathy",
+        "location": "Virudhunagar",
+        "priority": 2.0
+    },
+    {
+        "text": "Study for test.",
+        "author": "Mohammed",
+        "location": "Sivakasi",
+        "priority": 4.0
+    },
+    {
+        "text": "Prepare for results.",
+        "author": "Arokiaraj",
+        "location": "Sivakasi",
+        "priority": 5.0
+    }
+]
